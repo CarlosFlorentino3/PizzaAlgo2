@@ -1,0 +1,14 @@
+Look up pizza store phone number
+Call pizza store
+Decide what ingredients you want on pizza
+    3a Tell pizza guy what type of pizza you want 
+Wait for delivery
+Answer phone from the pizza delivery
+Meet and greet delivery person
+Pay for the pizza at door
+Say thank and goodbye
+Call others to come and eat pizza
+Sit down to eat pizza at table
+Eat pizza
+Throw leftovers in garbage
+Give review about pizza
